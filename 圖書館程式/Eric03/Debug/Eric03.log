@@ -1,0 +1,17 @@
+﻿已經開始建置於 2017/10/12 下午 10:05:26。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\陳佑旻\Documents\Visual Studio 2010\Projects\圖書館程式\Eric03\Eric03.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\Eric03.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+       Link:
+         所有輸出都是最新的。
+         Eric03.vcxproj -> C:\Users\陳佑旻\Documents\Visual Studio 2010\Projects\圖書館程式\Debug\Eric03.exe
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\Eric03.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\Eric03.lastbuildstate"。
+     1>專案 "C:\Users\陳佑旻\Documents\Visual Studio 2010\Projects\圖書館程式\Eric03\Eric03.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.04
